@@ -1,0 +1,17 @@
+@use "../scss/custom";
+
+@use '../scss/components/mixins.scss';
+@use '../scss/components/typeography.scss';
+@use '../scss/components/annimations.scss';
+@use '../scss/components/buttons.scss';
+//Sections
+
+@use '../scss/sections/companies.scss';
+@use '../scss/sections/footer.scss';
+@use '../scss/sections/getStarted.scss';
+@use '../scss/sections/introSection.scss';
+@use '../scss/sections/navbar.scss';
+@use '../scss/sections/portfolio.scss';
+@use '../scss/sections/services.scss';
+@use '../scss/sections/testemonials.scss';
+@use '../scss/sections/faq';
